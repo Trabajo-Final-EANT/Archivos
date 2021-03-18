@@ -1,0 +1,433 @@
+"","comunas","año","Regimen_Tenencia","porcentaje"
+"1","Total Ciudad",2018,"Propietario de la vivienda y el terreno",53.4
+"2","1",2018,"Propietario de la vivienda y el terreno",38
+"3","2",2018,"Propietario de la vivienda y el terreno",45.6
+"4","3",2018,"Propietario de la vivienda y el terreno",41.9
+"5","4",2018,"Propietario de la vivienda y el terreno",50.5
+"6","5",2018,"Propietario de la vivienda y el terreno",57.3
+"7","6",2018,"Propietario de la vivienda y el terreno",54.3
+"8","7",2018,"Propietario de la vivienda y el terreno",57.8
+"9","8",2018,"Propietario de la vivienda y el terreno",51.4
+"10","9",2018,"Propietario de la vivienda y el terreno",59.9
+"11","10",2018,"Propietario de la vivienda y el terreno",61.4
+"12","11",2018,"Propietario de la vivienda y el terreno",67.5
+"13","12",2018,"Propietario de la vivienda y el terreno",64.5
+"14","13",2018,"Propietario de la vivienda y el terreno",54.4
+"15","14",2018,"Propietario de la vivienda y el terreno",49
+"16","15",2018,"Propietario de la vivienda y el terreno",57.2
+"17","Total Ciudad",2017,"Propietario de la vivienda y el terreno",52.2
+"18","1",2017,"Propietario de la vivienda y el terreno",41
+"19","2",2017,"Propietario de la vivienda y el terreno",46.5
+"20","3",2017,"Propietario de la vivienda y el terreno",40.3
+"21","4",2017,"Propietario de la vivienda y el terreno",40.3
+"22","5",2017,"Propietario de la vivienda y el terreno",53.7
+"23","6",2017,"Propietario de la vivienda y el terreno",53.2
+"24","7",2017,"Propietario de la vivienda y el terreno",56.8
+"25","8",2017,"Propietario de la vivienda y el terreno",45.3
+"26","9",2017,"Propietario de la vivienda y el terreno",56.3
+"27","10",2017,"Propietario de la vivienda y el terreno",64.4
+"28","11",2017,"Propietario de la vivienda y el terreno",65.5
+"29","12",2017,"Propietario de la vivienda y el terreno",60.1
+"30","13",2017,"Propietario de la vivienda y el terreno",55.5
+"31","14",2017,"Propietario de la vivienda y el terreno",51.2
+"32","15",2017,"Propietario de la vivienda y el terreno",58.5
+"33","Total Ciudad",2016,"Propietario de la vivienda y el terreno",51.3
+"34","1",2016,"Propietario de la vivienda y el terreno",30.9
+"35","2",2016,"Propietario de la vivienda y el terreno",43.9
+"36","3",2016,"Propietario de la vivienda y el terreno",40.7
+"37","4",2016,"Propietario de la vivienda y el terreno",43
+"38","5",2016,"Propietario de la vivienda y el terreno",51.6
+"39","6",2016,"Propietario de la vivienda y el terreno",54.7
+"40","7",2016,"Propietario de la vivienda y el terreno",54.4
+"41","8",2016,"Propietario de la vivienda y el terreno",50
+"42","9",2016,"Propietario de la vivienda y el terreno",57.6
+"43","10",2016,"Propietario de la vivienda y el terreno",62.2
+"44","11",2016,"Propietario de la vivienda y el terreno",65
+"45","12",2016,"Propietario de la vivienda y el terreno",60.8
+"46","13",2016,"Propietario de la vivienda y el terreno",54.4
+"47","14",2016,"Propietario de la vivienda y el terreno",51.2
+"48","15",2016,"Propietario de la vivienda y el terreno",57.7
+"49","Total Ciudad",2015,"Propietario de la vivienda y el terreno",50.6
+"50","1",2015,"Propietario de la vivienda y el terreno",32.2
+"51","2",2015,"Propietario de la vivienda y el terreno",46.5
+"52","3",2015,"Propietario de la vivienda y el terreno",40.1
+"53","4",2015,"Propietario de la vivienda y el terreno",43.9
+"54","5",2015,"Propietario de la vivienda y el terreno",50.9
+"55","6",2015,"Propietario de la vivienda y el terreno",51.7
+"56","7",2015,"Propietario de la vivienda y el terreno",45.5
+"57","8",2015,"Propietario de la vivienda y el terreno",49.4
+"58","9",2015,"Propietario de la vivienda y el terreno",56.7
+"59","10",2015,"Propietario de la vivienda y el terreno",67.3
+"60","11",2015,"Propietario de la vivienda y el terreno",63
+"61","12",2015,"Propietario de la vivienda y el terreno",62.4
+"62","13",2015,"Propietario de la vivienda y el terreno",54.1
+"63","14",2015,"Propietario de la vivienda y el terreno",48.5
+"64","15",2015,"Propietario de la vivienda y el terreno",59.8
+"65","Total Ciudad",2014,"Propietario de la vivienda y el terreno",54.7
+"66","1",2014,"Propietario de la vivienda y el terreno",36.9
+"67","2",2014,"Propietario de la vivienda y el terreno",53.8
+"68","3",2014,"Propietario de la vivienda y el terreno",42.5
+"69","4",2014,"Propietario de la vivienda y el terreno",42.4
+"70","5",2014,"Propietario de la vivienda y el terreno",55.2
+"71","6",2014,"Propietario de la vivienda y el terreno",57.5
+"72","7",2014,"Propietario de la vivienda y el terreno",60
+"73","8",2014,"Propietario de la vivienda y el terreno",58.9
+"74","9",2014,"Propietario de la vivienda y el terreno",57.5
+"75","10",2014,"Propietario de la vivienda y el terreno",65.4
+"76","11",2014,"Propietario de la vivienda y el terreno",72.3
+"77","12",2014,"Propietario de la vivienda y el terreno",60.9
+"78","13",2014,"Propietario de la vivienda y el terreno",57.6
+"79","14",2014,"Propietario de la vivienda y el terreno",54
+"80","15",2014,"Propietario de la vivienda y el terreno",58
+"81","Total Ciudad",2013,"Propietario de la vivienda y el terreno",56.8
+"82","1",2013,"Propietario de la vivienda y el terreno",40.4
+"83","2",2013,"Propietario de la vivienda y el terreno",51.4
+"84","3",2013,"Propietario de la vivienda y el terreno",49.8
+"85","4",2013,"Propietario de la vivienda y el terreno",44.8
+"86","5",2013,"Propietario de la vivienda y el terreno",56.7
+"87","6",2013,"Propietario de la vivienda y el terreno",61.3
+"88","7",2013,"Propietario de la vivienda y el terreno",56.2
+"89","8",2013,"Propietario de la vivienda y el terreno",59.6
+"90","9",2013,"Propietario de la vivienda y el terreno",66
+"91","10",2013,"Propietario de la vivienda y el terreno",68.9
+"92","11",2013,"Propietario de la vivienda y el terreno",65.7
+"93","12",2013,"Propietario de la vivienda y el terreno",63.6
+"94","13",2013,"Propietario de la vivienda y el terreno",59
+"95","14",2013,"Propietario de la vivienda y el terreno",56.2
+"96","15",2013,"Propietario de la vivienda y el terreno",65.7
+"97","Total Ciudad",2012,"Propietario de la vivienda y el terreno",57.5
+"98","1",2012,"Propietario de la vivienda y el terreno",42.4
+"99","2",2012,"Propietario de la vivienda y el terreno",54.7
+"100","3",2012,"Propietario de la vivienda y el terreno",50.6
+"101","4",2012,"Propietario de la vivienda y el terreno",50.7
+"102","5",2012,"Propietario de la vivienda y el terreno",54.8
+"103","6",2012,"Propietario de la vivienda y el terreno",60.6
+"104","7",2012,"Propietario de la vivienda y el terreno",55.3
+"105","8",2012,"Propietario de la vivienda y el terreno",61.8
+"106","9",2012,"Propietario de la vivienda y el terreno",66.9
+"107","10",2012,"Propietario de la vivienda y el terreno",68.1
+"108","11",2012,"Propietario de la vivienda y el terreno",65.4
+"109","12",2012,"Propietario de la vivienda y el terreno",66.7
+"110","13",2012,"Propietario de la vivienda y el terreno",57.4
+"111","14",2012,"Propietario de la vivienda y el terreno",57.5
+"112","15",2012,"Propietario de la vivienda y el terreno",62.5
+"113","Total Ciudad",2011,"Propietario de la vivienda y el terreno",58.7
+"114","1",2011,"Propietario de la vivienda y el terreno",43.1
+"115","2",2011,"Propietario de la vivienda y el terreno",58.4
+"116","3",2011,"Propietario de la vivienda y el terreno",50.3
+"117","4",2011,"Propietario de la vivienda y el terreno",48
+"118","5",2011,"Propietario de la vivienda y el terreno",57
+"119","6",2011,"Propietario de la vivienda y el terreno",62.8
+"120","7",2011,"Propietario de la vivienda y el terreno",62
+"121","8",2011,"Propietario de la vivienda y el terreno",53.3
+"122","9",2011,"Propietario de la vivienda y el terreno",64.2
+"123","10",2011,"Propietario de la vivienda y el terreno",67.5
+"124","11",2011,"Propietario de la vivienda y el terreno",69.3
+"125","12",2011,"Propietario de la vivienda y el terreno",69.1
+"126","13",2011,"Propietario de la vivienda y el terreno",63.7
+"127","14",2011,"Propietario de la vivienda y el terreno",57.2
+"128","15",2011,"Propietario de la vivienda y el terreno",60.4
+"129","Total Ciudad",2010,"Propietario de la vivienda y el terreno",59.2
+"130","1",2010,"Propietario de la vivienda y el terreno",44.8
+"131","2",2010,"Propietario de la vivienda y el terreno",58.3
+"132","3",2010,"Propietario de la vivienda y el terreno",51.7
+"133","4",2010,"Propietario de la vivienda y el terreno",47.1
+"134","5",2010,"Propietario de la vivienda y el terreno",58.2
+"135","6",2010,"Propietario de la vivienda y el terreno",62.9
+"136","7",2010,"Propietario de la vivienda y el terreno",56.6
+"137","8",2010,"Propietario de la vivienda y el terreno",52.4
+"138","9",2010,"Propietario de la vivienda y el terreno",66.6
+"139","10",2010,"Propietario de la vivienda y el terreno",67.1
+"140","11",2010,"Propietario de la vivienda y el terreno",69.2
+"141","12",2010,"Propietario de la vivienda y el terreno",64.8
+"142","13",2010,"Propietario de la vivienda y el terreno",65.5
+"143","14",2010,"Propietario de la vivienda y el terreno",63.6
+"144","15",2010,"Propietario de la vivienda y el terreno",63
+"145","Total Ciudad",2018,"Inquilino o arrendatario",34.4
+"146","1",2018,"Inquilino o arrendatario",46.2
+"147","2",2018,"Inquilino o arrendatario",42.7
+"148","3",2018,"Inquilino o arrendatario",48.4
+"149","4",2018,"Inquilino o arrendatario",28.1
+"150","5",2018,"Inquilino o arrendatario",33.1
+"151","6",2018,"Inquilino o arrendatario",36.3
+"152","7",2018,"Inquilino o arrendatario",30.2
+"153","8",2018,"Inquilino o arrendatario",23.5
+"154","9",2018,"Inquilino o arrendatario",29.3
+"155","10",2018,"Inquilino o arrendatario",29.7
+"156","11",2018,"Inquilino o arrendatario",24.4
+"157","12",2018,"Inquilino o arrendatario",26.3
+"158","13",2018,"Inquilino o arrendatario",35.6
+"159","14",2018,"Inquilino o arrendatario",39.8
+"160","15",2018,"Inquilino o arrendatario",28.5
+"161","Total Ciudad",2017,"Inquilino o arrendatario",35.1
+"162","1",2017,"Inquilino o arrendatario",41.6
+"163","2",2017,"Inquilino o arrendatario",40.8
+"164","3",2017,"Inquilino o arrendatario",50.9
+"165","4",2017,"Inquilino o arrendatario",33.2
+"166","5",2017,"Inquilino o arrendatario",38.1
+"167","6",2017,"Inquilino o arrendatario",38.5
+"168","7",2017,"Inquilino o arrendatario",28.6
+"169","8",2017,"Inquilino o arrendatario",26.1
+"170","9",2017,"Inquilino o arrendatario",28.8
+"171","10",2017,"Inquilino o arrendatario",26.8
+"172","11",2017,"Inquilino o arrendatario",27.1
+"173","12",2017,"Inquilino o arrendatario",29.1
+"174","13",2017,"Inquilino o arrendatario",35.6
+"175","14",2017,"Inquilino o arrendatario",40
+"176","15",2017,"Inquilino o arrendatario",28.3
+"177","Total Ciudad",2016,"Inquilino o arrendatario",35.7
+"178","1",2016,"Inquilino o arrendatario",50.2
+"179","2",2016,"Inquilino o arrendatario",42.1
+"180","3",2016,"Inquilino o arrendatario",49.8
+"181","4",2016,"Inquilino o arrendatario",34.1
+"182","5",2016,"Inquilino o arrendatario",38.3
+"183","6",2016,"Inquilino o arrendatario",37.1
+"184","7",2016,"Inquilino o arrendatario",30.8
+"185","8",2016,"Inquilino o arrendatario",23.6
+"186","9",2016,"Inquilino o arrendatario",28.5
+"187","10",2016,"Inquilino o arrendatario",27.4
+"188","11",2016,"Inquilino o arrendatario",20.6
+"189","12",2016,"Inquilino o arrendatario",29
+"190","13",2016,"Inquilino o arrendatario",35.7
+"191","14",2016,"Inquilino o arrendatario",40.9
+"192","15",2016,"Inquilino o arrendatario",31.7
+"193","Total Ciudad",2015,"Inquilino o arrendatario",35.2
+"194","1",2015,"Inquilino o arrendatario",46.1
+"195","2",2015,"Inquilino o arrendatario",38.1
+"196","3",2015,"Inquilino o arrendatario",48.5
+"197","4",2015,"Inquilino o arrendatario",31.1
+"198","5",2015,"Inquilino o arrendatario",38.2
+"199","6",2015,"Inquilino o arrendatario",34.7
+"200","7",2015,"Inquilino o arrendatario",35.7
+"201","8",2015,"Inquilino o arrendatario",24.6
+"202","9",2015,"Inquilino o arrendatario",30.2
+"203","10",2015,"Inquilino o arrendatario",26.3
+"204","11",2015,"Inquilino o arrendatario",26.7
+"205","12",2015,"Inquilino o arrendatario",28.1
+"206","13",2015,"Inquilino o arrendatario",33.1
+"207","14",2015,"Inquilino o arrendatario",42
+"208","15",2015,"Inquilino o arrendatario",29.9
+"209","Total Ciudad",2014,"Inquilino o arrendatario",32
+"210","1",2014,"Inquilino o arrendatario",41.9
+"211","2",2014,"Inquilino o arrendatario",35.5
+"212","3",2014,"Inquilino o arrendatario",47.1
+"213","4",2014,"Inquilino o arrendatario",29.7
+"214","5",2014,"Inquilino o arrendatario",34.1
+"215","6",2014,"Inquilino o arrendatario",29.1
+"216","7",2014,"Inquilino o arrendatario",26.9
+"217","8",2014,"Inquilino o arrendatario",18.3
+"218","9",2014,"Inquilino o arrendatario",27.5
+"219","10",2014,"Inquilino o arrendatario",26.4
+"220","11",2014,"Inquilino o arrendatario",19.9
+"221","12",2014,"Inquilino o arrendatario",30.2
+"222","13",2014,"Inquilino o arrendatario",30.6
+"223","14",2014,"Inquilino o arrendatario",35.7
+"224","15",2014,"Inquilino o arrendatario",33
+"225","Total Ciudad",2013,"Inquilino o arrendatario",32.1
+"226","1",2013,"Inquilino o arrendatario",47.2
+"227","2",2013,"Inquilino o arrendatario",36.6
+"228","3",2013,"Inquilino o arrendatario",40.5
+"229","4",2013,"Inquilino o arrendatario",33.1
+"230","5",2013,"Inquilino o arrendatario",33
+"231","6",2013,"Inquilino o arrendatario",31.4
+"232","7",2013,"Inquilino o arrendatario",30.9
+"233","8",2013,"Inquilino o arrendatario",22.8
+"234","9",2013,"Inquilino o arrendatario",25.1
+"235","10",2013,"Inquilino o arrendatario",24.4
+"236","11",2013,"Inquilino o arrendatario",22.5
+"237","12",2013,"Inquilino o arrendatario",27.9
+"238","13",2013,"Inquilino o arrendatario",33
+"239","14",2013,"Inquilino o arrendatario",31.4
+"240","15",2013,"Inquilino o arrendatario",29.4
+"241","Total Ciudad",2012,"Inquilino o arrendatario",31
+"242","1",2012,"Inquilino o arrendatario",40.9
+"243","2",2012,"Inquilino o arrendatario",33.3
+"244","3",2012,"Inquilino o arrendatario",38.6
+"245","4",2012,"Inquilino o arrendatario",29.5
+"246","5",2012,"Inquilino o arrendatario",35.1
+"247","6",2012,"Inquilino o arrendatario",30.8
+"248","7",2012,"Inquilino o arrendatario",30.4
+"249","8",2012,"Inquilino o arrendatario",15.8
+"250","9",2012,"Inquilino o arrendatario",23
+"251","10",2012,"Inquilino o arrendatario",26.5
+"252","11",2012,"Inquilino o arrendatario",26.9
+"253","12",2012,"Inquilino o arrendatario",24.6
+"254","13",2012,"Inquilino o arrendatario",33.8
+"255","14",2012,"Inquilino o arrendatario",33.8
+"256","15",2012,"Inquilino o arrendatario",27.2
+"257","Total Ciudad",2011,"Inquilino o arrendatario",29.5
+"258","1",2011,"Inquilino o arrendatario",40.2
+"259","2",2011,"Inquilino o arrendatario",30.5
+"260","3",2011,"Inquilino o arrendatario",37
+"261","4",2011,"Inquilino o arrendatario",32.2
+"262","5",2011,"Inquilino o arrendatario",32.7
+"263","6",2011,"Inquilino o arrendatario",30.3
+"264","7",2011,"Inquilino o arrendatario",23.3
+"265","8",2011,"Inquilino o arrendatario",20.8
+"266","9",2011,"Inquilino o arrendatario",24
+"267","10",2011,"Inquilino o arrendatario",25.2
+"268","11",2011,"Inquilino o arrendatario",24.9
+"269","12",2011,"Inquilino o arrendatario",23.3
+"270","13",2011,"Inquilino o arrendatario",28
+"271","14",2011,"Inquilino o arrendatario",33.3
+"272","15",2011,"Inquilino o arrendatario",27.3
+"273","Total Ciudad",2010,"Inquilino o arrendatario",28.5
+"274","1",2010,"Inquilino o arrendatario",39.6
+"275","2",2010,"Inquilino o arrendatario",29.7
+"276","3",2010,"Inquilino o arrendatario",41
+"277","4",2010,"Inquilino o arrendatario",32.2
+"278","5",2010,"Inquilino o arrendatario",32.9
+"279","6",2010,"Inquilino o arrendatario",30.1
+"280","7",2010,"Inquilino o arrendatario",27.8
+"281","8",2010,"Inquilino o arrendatario",15.7
+"282","9",2010,"Inquilino o arrendatario",23.5
+"283","10",2010,"Inquilino o arrendatario",24.5
+"284","11",2010,"Inquilino o arrendatario",20.5
+"285","12",2010,"Inquilino o arrendatario",25.5
+"286","13",2010,"Inquilino o arrendatario",25
+"287","14",2010,"Inquilino o arrendatario",25.7
+"288","15",2010,"Inquilino o arrendatario",24.2
+"289","Total Ciudad",2018,"Tenencia precaria1",12.2
+"290","1",2018,"Tenencia precaria1",15.8
+"291","2",2018,"Tenencia precaria1",11.7
+"292","3",2018,"Tenencia precaria1",9.7
+"293","4",2018,"Tenencia precaria1",21.3
+"294","5",2018,"Tenencia precaria1",9.6
+"295","6",2018,"Tenencia precaria1",9.4
+"296","7",2018,"Tenencia precaria1",12
+"297","8",2018,"Tenencia precaria1",25.1
+"298","9",2018,"Tenencia precaria1",10.8
+"299","10",2018,"Tenencia precaria1",8.9
+"300","11",2018,"Tenencia precaria1",8.1
+"301","12",2018,"Tenencia precaria1",9.1
+"302","13",2018,"Tenencia precaria1",10
+"303","14",2018,"Tenencia precaria1",11.2
+"304","15",2018,"Tenencia precaria1",14.3
+"305","Total Ciudad",2017,"Tenencia precaria1",12.7
+"306","1",2017,"Tenencia precaria1",17.4
+"307","2",2017,"Tenencia precaria1",12.7
+"308","3",2017,"Tenencia precaria1",8.7
+"309","4",2017,"Tenencia precaria1",26.5
+"310","5",2017,"Tenencia precaria1",8.1
+"311","6",2017,"Tenencia precaria1",8.3
+"312","7",2017,"Tenencia precaria1",14.6
+"313","8",2017,"Tenencia precaria1",28.6
+"314","9",2017,"Tenencia precaria1",15
+"315","10",2017,"Tenencia precaria1",8.8
+"316","11",2017,"Tenencia precaria1",7.3
+"317","12",2017,"Tenencia precaria1",10.8
+"318","13",2017,"Tenencia precaria1",8.8
+"319","14",2017,"Tenencia precaria1",8.8
+"320","15",2017,"Tenencia precaria1",13.2
+"321","Total Ciudad",2016,"Tenencia precaria1",13
+"322","1",2016,"Tenencia precaria1",19
+"323","2",2016,"Tenencia precaria1",14
+"324","3",2016,"Tenencia precaria1",9.6
+"325","4",2016,"Tenencia precaria1",23
+"326","5",2016,"Tenencia precaria1",10
+"327","6",2016,"Tenencia precaria1",8.2
+"328","7",2016,"Tenencia precaria1",14.7
+"329","8",2016,"Tenencia precaria1",26.4
+"330","9",2016,"Tenencia precaria1",13.9
+"331","10",2016,"Tenencia precaria1",10.4
+"332","11",2016,"Tenencia precaria1",14.3
+"333","12",2016,"Tenencia precaria1",10.2
+"334","13",2016,"Tenencia precaria1",9.9
+"335","14",2016,"Tenencia precaria1",7.9
+"336","15",2016,"Tenencia precaria1",10.6
+"337","Total Ciudad",2015,"Tenencia precaria1",14.2
+"338","1",2015,"Tenencia precaria1",21.6
+"339","2",2015,"Tenencia precaria1",15.4
+"340","3",2015,"Tenencia precaria1",11.4
+"341","4",2015,"Tenencia precaria1",25
+"342","5",2015,"Tenencia precaria1",10.9
+"343","6",2015,"Tenencia precaria1",13.6
+"344","7",2015,"Tenencia precaria1",18.7
+"345","8",2015,"Tenencia precaria1",26.1
+"346","9",2015,"Tenencia precaria1",13.1
+"347","10",2015,"Tenencia precaria1",6.4
+"348","11",2015,"Tenencia precaria1",10.3
+"349","12",2015,"Tenencia precaria1",9.4
+"350","13",2015,"Tenencia precaria1",12.7
+"351","14",2015,"Tenencia precaria1",9.5
+"352","15",2015,"Tenencia precaria1",10.3
+"353","Total Ciudad",2014,"Tenencia precaria1",13.3
+"354","1",2014,"Tenencia precaria1",21.3
+"355","2",2014,"Tenencia precaria1",10.7
+"356","3",2014,"Tenencia precaria1",10.4
+"357","4",2014,"Tenencia precaria1",27.8
+"358","5",2014,"Tenencia precaria1",10.7
+"359","6",2014,"Tenencia precaria1",13.4
+"360","7",2014,"Tenencia precaria1",13.1
+"361","8",2014,"Tenencia precaria1",22.8
+"362","9",2014,"Tenencia precaria1",15
+"363","10",2014,"Tenencia precaria1",8.3
+"364","11",2014,"Tenencia precaria1",7.8
+"365","12",2014,"Tenencia precaria1",9
+"366","13",2014,"Tenencia precaria1",11.8
+"367","14",2014,"Tenencia precaria1",10.3
+"368","15",2014,"Tenencia precaria1",9
+"369","Total Ciudad",2013,"Tenencia precaria1",11
+"370","1",2013,"Tenencia precaria1",12.4
+"371","2",2013,"Tenencia precaria1",12
+"372","3",2013,"Tenencia precaria1",9.7
+"373","4",2013,"Tenencia precaria1",22.1
+"374","5",2013,"Tenencia precaria1",10.3
+"375","6",2013,"Tenencia precaria1",7.3
+"376","7",2013,"Tenencia precaria1",13
+"377","8",2013,"Tenencia precaria1",17.6
+"378","9",2013,"Tenencia precaria1",8.9
+"379","10",2013,"Tenencia precaria1",6.8
+"380","11",2013,"Tenencia precaria1",11.8
+"381","12",2013,"Tenencia precaria1",8.5
+"382","13",2013,"Tenencia precaria1",8.1
+"383","14",2013,"Tenencia precaria1",12.4
+"384","15",2013,"Tenencia precaria1",4.9
+"385","Total Ciudad",2012,"Tenencia precaria1",11.5
+"386","1",2012,"Tenencia precaria1",16.7
+"387","2",2012,"Tenencia precaria1",11.9
+"388","3",2012,"Tenencia precaria1",10.7
+"389","4",2012,"Tenencia precaria1",19.8
+"390","5",2012,"Tenencia precaria1",10.1
+"391","6",2012,"Tenencia precaria1",8.6
+"392","7",2012,"Tenencia precaria1",14.2
+"393","8",2012,"Tenencia precaria1",22.4
+"394","9",2012,"Tenencia precaria1",10.1
+"395","10",2012,"Tenencia precaria1",5.3
+"396","11",2012,"Tenencia precaria1",7.7
+"397","12",2012,"Tenencia precaria1",8.7
+"398","13",2012,"Tenencia precaria1",8.8
+"399","14",2012,"Tenencia precaria1",8.8
+"400","15",2012,"Tenencia precaria1",10.3
+"401","Total Ciudad",2011,"Tenencia precaria1",11.8
+"402","1",2011,"Tenencia precaria1",16.7
+"403","2",2011,"Tenencia precaria1",11.1
+"404","3",2011,"Tenencia precaria1",12.7
+"405","4",2011,"Tenencia precaria1",19.8
+"406","5",2011,"Tenencia precaria1",10.2
+"407","6",2011,"Tenencia precaria1",6.8
+"408","7",2011,"Tenencia precaria1",14.7
+"409","8",2011,"Tenencia precaria1",25.9
+"410","9",2011,"Tenencia precaria1",11.8
+"411","10",2011,"Tenencia precaria1",7.3
+"412","11",2011,"Tenencia precaria1",5.9
+"413","12",2011,"Tenencia precaria1",7.6
+"414","13",2011,"Tenencia precaria1",8.3
+"415","14",2011,"Tenencia precaria1",9.5
+"416","15",2011,"Tenencia precaria1",12.3
+"417","Total Ciudad",2010,"Tenencia precaria1",11.3
+"418","1",2010,"Tenencia precaria1",14.4
+"419","2",2010,"Tenencia precaria1",10.4
+"420","3",2010,"Tenencia precaria1",7.3
+"421","4",2010,"Tenencia precaria1",17
+"422","5",2010,"Tenencia precaria1",8.9
+"423","6",2010,"Tenencia precaria1",6.6
+"424","7",2010,"Tenencia precaria1",14.7
+"425","8",2010,"Tenencia precaria1",29.5
+"426","9",2010,"Tenencia precaria1",9.9
+"427","10",2010,"Tenencia precaria1",5.8
+"428","11",2010,"Tenencia precaria1",7.9
+"429","12",2010,"Tenencia precaria1",9.6
+"430","13",2010,"Tenencia precaria1",9.5
+"431","14",2010,"Tenencia precaria1",10.3
+"432","15",2010,"Tenencia precaria1",12.3
